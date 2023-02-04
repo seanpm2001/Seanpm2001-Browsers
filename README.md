@@ -29,6 +29,10 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - [:octocat: `Bliss Browser Astro (module)`](https://github.com/seanpm2001/Bliss_Browser_Astro/)
 - - [:octocat: `Bliss Browser Blade (module)`](https://github.com/seanpm2001/Bliss_Browser_Blade/)
 - - [:octocat: `Bliss Browser BrightScript (module)`](https://github.com/seanpm2001/Bliss_Browser_BrightScript/)
+- - [:octocat: `Bliss Browser BrighterScript (module)`](https://github.com/seanpm2001/Bliss_Browser_BrighterScript/)
+- - [:octocat: `Bliss Browser Crystal (module)`](https://github.com/seanpm2001/Bliss_Browser_Crystal/)
+- - [:octocat: `Bliss Browser CSS (module)`](https://github.com/seanpm2001/Bliss_Browser_CSS/)
+- - [:octocat: `Bliss Browser Dart (module)`](https://github.com/seanpm2001/Bliss_Browser_Dart/)
 - - [:octocat: `Bliss Browser OSMode`](https://github.com/seanpm2001/Bliss_Browser_OSMode/)
 - - - [:octocat: `Bliss Browser OSMode App Menu`](https://github.com/seanpm2001/Bliss_Browser_OSMode_AppMenu/)
 - - - [:octocat: `Bliss Browser OSMode Bootloader`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Bootloader/)
@@ -70,9 +74,9 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2023, Friday, February 3rd at 4:51 pm PST)`
+**File version:** `4 (2023, Saturday, February 4th at 3:41 pm PST)`
 
-**Line count (including blank lines and compiler line):** `156`
+**Line count (including blank lines and compiler line):** `178`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -139,6 +143,24 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - [x] Added an entry for version 3
 - [x] Added the footer 
 - [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p><b>Version 4 (2023, Saturday, February 4th at 3:41 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] ...
+- - [x] Updated the `browsers` listing
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 4
+- [ ] No other changes in version 4
 
 </details>
 
