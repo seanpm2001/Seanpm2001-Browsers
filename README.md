@@ -23,16 +23,21 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - [:octocat: `Bliss Browser`](https://github.com/seanpm2001/Bliss_Browser/)
 - - [:octocat: `Bliss Browser Settings`](https://github.com/seanpm2001/Bliss_Browser_Settings/)
 - - [:octocat: `Bliss Browser Core`](https://github.com/seanpm2001/Bliss_Browser_Core/)
-- - [:octocat: `Bliss Browser Action Server Pages (module)`](https://github.com/seanpm2001/Bliss_Browser_ActionServerPages/)
-- - [:octocat: `Bliss Browser Action Server Pages .NET (module)`](https://github.com/seanpm2001/Bliss_Browser_ActionServerPagesDotNET/)
-- - [:octocat: `Bliss Browser ActionScript (module)`](https://github.com/seanpm2001/Bliss_Browser_ActionScript/)
-- - [:octocat: `Bliss Browser Astro (module)`](https://github.com/seanpm2001/Bliss_Browser_Astro/)
-- - [:octocat: `Bliss Browser Blade (module)`](https://github.com/seanpm2001/Bliss_Browser_Blade/)
-- - [:octocat: `Bliss Browser BrightScript (module)`](https://github.com/seanpm2001/Bliss_Browser_BrightScript/)
-- - [:octocat: `Bliss Browser BrighterScript (module)`](https://github.com/seanpm2001/Bliss_Browser_BrighterScript/)
-- - [:octocat: `Bliss Browser Crystal (module)`](https://github.com/seanpm2001/Bliss_Browser_Crystal/)
-- - [:octocat: `Bliss Browser CSS (module)`](https://github.com/seanpm2001/Bliss_Browser_CSS/)
-- - [:octocat: `Bliss Browser Dart (module)`](https://github.com/seanpm2001/Bliss_Browser_Dart/)
+- - [:octocat: `Bliss Browser Languages`](https://github.com/seanpm2001/Bliss_Browser_Languages/)
+- - - [:octocat: `Bliss Browser Action Server Pages (module)`](https://github.com/seanpm2001/Bliss_Browser_ActionServerPages/)
+- - - [:octocat: `Bliss Browser Action Server Pages .NET (module)`](https://github.com/seanpm2001/Bliss_Browser_ActionServerPagesDotNET/)
+- - - [:octocat: `Bliss Browser ActionScript (module)`](https://github.com/seanpm2001/Bliss_Browser_ActionScript/)
+- - - [:octocat: `Bliss Browser Astro (module)`](https://github.com/seanpm2001/Bliss_Browser_Astro/)
+- - - [:octocat: `Bliss Browser Blade (module)`](https://github.com/seanpm2001/Bliss_Browser_Blade/)
+- - - [:octocat: `Bliss Browser BrightScript (module)`](https://github.com/seanpm2001/Bliss_Browser_BrightScript/)
+- - - [:octocat: `Bliss Browser BrighterScript (module)`](https://github.com/seanpm2001/Bliss_Browser_BrighterScript/)
+- - - [:octocat: `Bliss Browser Crystal (module)`](https://github.com/seanpm2001/Bliss_Browser_Crystal/)
+- - - [:octocat: `Bliss Browser CSS (module)`](https://github.com/seanpm2001/Bliss_Browser_CSS/)
+- - - [:octocat: `Bliss Browser Dart (module)`](https://github.com/seanpm2001/Bliss_Browser_Dart/)
+- - - [:octocat: `Bliss Browser Elm (module)`](https://github.com/seanpm2001/Bliss_Browser_Elm/)
+- - - [:octocat: `Bliss Browser HTML (module)`](https://github.com/seanpm2001/Bliss_Browser_HTML/)
+- - - [:octocat: `Bliss Browser JavaScript (module)`](https://github.com/seanpm2001/Bliss_Browser_JavaScript/)
+- - - [:octocat: `Bliss Browser Less (module)`](https://github.com/seanpm2001/Bliss_Browser_Less/)
 - - [:octocat: `Bliss Browser OSMode`](https://github.com/seanpm2001/Bliss_Browser_OSMode/)
 - - - [:octocat: `Bliss Browser OSMode App Menu`](https://github.com/seanpm2001/Bliss_Browser_OSMode_AppMenu/)
 - - - [:octocat: `Bliss Browser OSMode Bootloader`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Bootloader/)
@@ -74,9 +79,9 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2023, Saturday, February 4th at 3:41 pm PST)`
+**File version:** `5 (2023, Sunday, February 5th at 4:08 pm PST)`
 
-**Line count (including blank lines and compiler line):** `178`
+**Line count (including blank lines and compiler line):** `201`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -161,6 +166,24 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 4
 - [ ] No other changes in version 4
+
+</details>
+
+<details><summary><p><b>Version 5 (2023, Sunday, February 5th at 4:08 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] ...
+- - [x] Updated the `browsers` listing
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 5
+- [ ] No other changes in version 5
 
 </details>
 
