@@ -38,6 +38,10 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser HTML (module)`](https://github.com/seanpm2001/Bliss_Browser_HTML/)
 - - - [:octocat: `Bliss Browser JavaScript (module)`](https://github.com/seanpm2001/Bliss_Browser_JavaScript/)
 - - - [:octocat: `Bliss Browser Less (module)`](https://github.com/seanpm2001/Bliss_Browser_Less/)
+- - - [:octocat: `Bliss Browser Mako (module)`](https://github.com/seanpm2001/Bliss_Browser_Mako/)
+- - - [:octocat: `Bliss Browser MediaWiki (module)`](https://github.com/seanpm2001/Bliss_Browser_MediaWiki/)
+- - - [:octocat: `Bliss Browser Markdown (module)`](https://github.com/seanpm2001/Bliss_Browser_Markdown/)
+- - - [:octocat: `Bliss Browser PHP (module)`](https://github.com/seanpm2001/Bliss_Browser_PHP/)
 - - [:octocat: `Bliss Browser OSMode`](https://github.com/seanpm2001/Bliss_Browser_OSMode/)
 - - - [:octocat: `Bliss Browser OSMode App Menu`](https://github.com/seanpm2001/Bliss_Browser_OSMode_AppMenu/)
 - - - [:octocat: `Bliss Browser OSMode Bootloader`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Bootloader/)
@@ -54,6 +58,7 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser OSMode Ubuntu Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Ubuntu-Shell/)
 - - - [:octocat: `Bliss Browser OSMode Arch Linux Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode-Arch-Shell/)
 - - - [:octocat: `Bliss Browser OSMode Linux from Scratch Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode-LFS-Shell/)
+- - - [:octocat: `Bliss Browser OSMode MacOS Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_MacOS_Shell/)
 - - - [:octocat: `Bliss Browser OSMode Meadows Linux Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode-Meadows-Shell/)
 - - - [:octocat: `Bliss Browser OSMode Windows NT Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode-Windows-NT-Shell/)
 - [:octocat: `Candroid Browser`](https://github.com/seanpm2001/Candroid-Browser/)
@@ -79,9 +84,9 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `5 (2023, Sunday, February 5th at 4:08 pm PST)`
+**File version:** `6 (2023, Monday, February 6th at 4:14 pm PST)`
 
-**Line count (including blank lines and compiler line):** `201`
+**Line count (including blank lines and compiler line):** `224`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -184,6 +189,24 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 5
 - [ ] No other changes in version 5
+
+</details>
+
+<details><summary><p><b>Version 6 (2023, Monday, February 6th at 4:14 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] ...
+- - [x] Updated the `browsers` listing
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 6
+- [ ] No other changes in version 6
 
 </details>
 
