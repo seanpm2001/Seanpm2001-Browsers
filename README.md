@@ -46,6 +46,10 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser Ruby (module)`](https://github.com/seanpm2001/Bliss_Browser_Ruby/)
 - - - [:octocat: `Bliss Browser SASS (module)`](https://github.com/seanpm2001/Bliss_Browser_SASS/)
 - - - [:octocat: `Bliss Browser SCSS (module)`](https://github.com/seanpm2001/Bliss_Browser_SCSS/)
+- - - [:octocat: `Bliss Browser SGML (module)`](https://github.com/seanpm2001/Bliss_Browser_SGML/)
+- - - [:octocat: `Bliss Browser Smarty (module)`](https://github.com/seanpm2001/Bliss_Browser_Smarty/)
+- - - [:octocat: `Bliss Browser Svelte (module)`](https://github.com/seanpm2001/Bliss_Browser_Svelte/)
+- - - [:octocat: `Bliss Browser TOML (module)`](https://github.com/seanpm2001/Bliss_Browser_TOML/)
 - - [:octocat: `Bliss Browser OSMode`](https://github.com/seanpm2001/Bliss_Browser_OSMode/)
 - - - [:octocat: `Bliss Browser OSMode App Menu`](https://github.com/seanpm2001/Bliss_Browser_OSMode_AppMenu/)
 - - - [:octocat: `Bliss Browser OSMode Bootloader`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Bootloader/)
@@ -66,6 +70,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser OSMode Linux from Scratch Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode-LFS-Shell/)
 - - - [:octocat: `Bliss Browser OSMode MacOS Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_MacOS_Shell/)
 - - - [:octocat: `Bliss Browser OSMode Meadows Linux Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode-Meadows-Shell/)
+- - - [:octocat: `Bliss Browser OSMode NixOS Shell](https://github.com/seanpm2001/Bliss_Browser_OSMode_NixOS_Shell/)
+- - - [:octocat: `Bliss Browser OSMode WacOS shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_WacOS_Shell/)
 - - - [:octocat: `Bliss Browser OSMode Windows NT Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode-Windows-NT-Shell/)
 - [:octocat: `Candroid Browser`](https://github.com/seanpm2001/Candroid-Browser/)
 - [:octocat: `Silkworm Browser`](https://github.com/seanpm2001/Silkworm_web_browser/)
@@ -90,9 +96,9 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `7 (2023, Tuesday, February 7th at 6:15 pm PST)`
+**File version:** `8 (2023, Wednesday, February 8th at 3:42 pm PST)`
 
-**Line count (including blank lines and compiler line):** `248`
+**Line count (including blank lines and compiler line):** `272`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -231,6 +237,24 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 7
 - [ ] No other changes in version 7
+
+</details>
+
+<details><summary><p><b>Version 8 (2023, Wednesday, February 8th at 3:42 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] ...
+- - [x] Updated the `browsers` listing
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 8
+- [ ] No other changes in version 8
 
 </details>
 
