@@ -23,6 +23,9 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - [:octocat: `Bliss Browser`](https://github.com/seanpm2001/Bliss_Browser/)
 - - [:octocat: `Bliss Browser Settings`](https://github.com/seanpm2001/Bliss_Browser_Settings/)
 - - [:octocat: `Bliss Browser Core`](https://github.com/seanpm2001/Bliss_Browser_Core/)
+- - - [:octocat: `Bliss Browser Image Viewer`](https://github.com/seanpm2001/Bliss_Browser_ImageViewer/)
+- - - [:octocat: `Bliss Browser PDF Mode`](https://github.com/seanpm2001/Bliss_Browser_PDFMode/)
+- - - [:octocat: `Bliss Browser Video Player`](https://github.com/seanpm2001/Bliss_Browser_VideoPlayer/)
 - - [:octocat: `Bliss Browser Languages`](https://github.com/seanpm2001/Bliss_Browser_Languages/)
 - - - [:octocat: `Bliss Browser Action Server Pages (module)`](https://github.com/seanpm2001/Bliss_Browser_ActionServerPages/)
 - - - [:octocat: `Bliss Browser Action Server Pages .NET (module)`](https://github.com/seanpm2001/Bliss_Browser_ActionServerPagesDotNET/)
@@ -54,6 +57,7 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser TypeScript (module)`](https://github.com/seanpm2001/Bliss_Browser_TypeScript/)
 - - - [:octocat: `Bliss Browser WebAssembly (module)`](https://github.com/seanpm2001/Bliss_Browser_WebAssembly/)
 - - - [:octocat: `Bliss Browser XML (module)`](https://github.com/seanpm2001/Bliss_Browser_XML/)
+- - - [:octocat: `Bliss Browser YAML (module)`](https://github.com/seanpm2001/Bliss_Browser_YAML/)
 - - [:octocat: `Bliss Browser OSMode`](https://github.com/seanpm2001/Bliss_Browser_OSMode/)
 - - - [:octocat: `Bliss Browser OSMode App Menu`](https://github.com/seanpm2001/Bliss_Browser_OSMode_AppMenu/)
 - - - [:octocat: `Bliss Browser OSMode Bootloader`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Bootloader/)
@@ -61,23 +65,25 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser OSMode File Manager`](https://github.com/seanpm2001/Bliss_Browser_OSMode_FileManager/)
 - - - [:octocat: `Bliss Browser OSMode Settings`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Settings/)
 - - - [:octocat: `Bliss Browser OSMode Android Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Android_Shell/)
-- - - [:octocat: `Bliss Browser OSMode DragonFly BSD Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode-DragonflyBSD-Shell/)
-- - - [:octocat: `Bliss Browser OSMode FireOS Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_FireOS_Shell/)
-- - - [:octocat: `Bliss Browser OSMode Raspberry Pi OS Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Raspberry-Pi-OS-Shell/)
-- - - [:octocat: `Bliss Browser OSMode Gentoo Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Gentoo-Shell/)
-- - - [:octocat: `Bliss Browser OSMode RedHat Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_RedHat-Shell/)
-- - - [:octocat: `Bliss Browser OSMode Fedora Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Fedora-Shell/)
-- - - [:octocat: `Bliss Browser OSMode POSIX Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_POSIX-Shell/)
-- - - [:octocat: `Bliss Browser OSMode Debian Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Debian-Shell/)
-- - - [:octocat: `Bliss Browser OSMode Ubuntu Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Ubuntu-Shell/)
 - - - [:octocat: `Bliss Browser OSMode Arch Linux Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode-Arch-Shell/)
+- - - [:octocat: `Bliss Browser OSMode Debian Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Debian-Shell/)
+- - - [:octocat: `Bliss Browser OSMode DragonFly BSD Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode-DragonflyBSD-Shell/)
+- - - [:octocat: `Bliss Browser OSMode Fedora Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Fedora-Shell/)
+- - - [:octocat: `Bliss Browser OSMode FireOS Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_FireOS_Shell/)
+- - - [:octocat: `Bliss Browser OSMode Gentoo Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Gentoo-Shell/)
 - - - [:octocat: `Bliss Browser OSMode iOS shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_iOS_Shell/)
 - - - [:octocat: `Bliss Browser OSMode iPadOS shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_iPadOS_Shell/)
 - - - [:octocat: `Bliss Browser OSMode Linux from Scratch Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode-LFS-Shell/)
 - - - [:octocat: `Bliss Browser OSMode MacOS Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_MacOS_Shell/)
 - - - [:octocat: `Bliss Browser OSMode Meadows Linux Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode-Meadows-Shell/)
 - - - [:octocat: `Bliss Browser OSMode NixOS Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_NixOS_Shell/)
+- - - [:octocat: `Bliss Browser OSMode POSIX Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_POSIX-Shell/)
+- - - [:octocat: `Bliss Browser OSMode Raspberry Pi OS Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Raspberry-Pi-OS-Shell/)
+- - - [:octocat: `Bliss Browser OSMode ReactOS Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_ReactOS_Shell/)
+- - - [:octocat: `Bliss Browser OSMode RedHat Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_RedHat-Shell/)
+- - - [:octocat: `Bliss Browser OSMode Ubuntu Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Ubuntu-Shell/)
 - - - [:octocat: `Bliss Browser OSMode WacOS shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_WacOS_Shell/)
+- - - [:octocat: `Bliss Browser OSMode Windows XP Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Windows-XP_Shell/)
 - - - [:octocat: `Bliss Browser OSMode Windows 10 Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Windows-10_Shell/)
 - - - [:octocat: `Bliss Browser OSMode Windows 11 Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Windows-11_Shell/)
 - - - [:octocat: `Bliss Browser OSMode Windows NT Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode-Windows-NT-Shell/)
@@ -104,9 +110,9 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `9 (2023, Thursday, February 9th at 1:38 pm PST)`
+**File version:** `10 (2023, Friday, February 10th at 5:25 pm PST)`
 
-**Line count (including blank lines and compiler line):** `298`
+**Line count (including blank lines and compiler line):** `322`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -281,6 +287,24 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 9
 - [ ] No other changes in version 9
+
+</details>
+
+<details><summary><p><b>Version 10 (2023, Friday, February 10th at 5:25 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] ...
+- - [x] Updated the `browsers` listing
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 10
+- [ ] No other changes in version 10
 
 </details>
 
