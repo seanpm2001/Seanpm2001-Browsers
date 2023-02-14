@@ -29,7 +29,9 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser EPUBMode`](https://github.com/seanpm2001/Bliss_Browser_EPUBMode/)
 - - - [:octocat: `Bliss Browser Fonts`](https://github.com/seanpm2001/Bliss_Browser_Fonts/)
 - - - [:octocat: `Bliss Browser Image Viewer`](https://github.com/seanpm2001/Bliss_Browser_ImageViewer/)
+- - - [:octocat: `Bliss Browser jQuery`](https://github.com/seanpm2001/Bliss_Browser_JQuery/)
 - - - [:octocat: `Bliss Browser Onion`](https://github.com/seanpm2001/Bliss_Browser_Onion/)
+- - - [:octocat: `Bliss Browser Onion Router`](https://github.com/seanpm2001/Bliss_Browser_OnionRouter/)
 - - - [:octocat: `Bliss Browser PDF Mode`](https://github.com/seanpm2001/Bliss_Browser_PDFMode/)
 - - - [:octocat: `Bliss Browser Search Engines`](https://github.com/seanpm2001/Bliss_Browser_SearchEngines/)
 - - - [:octocat: `Bliss Browser Tabs`](https://github.com/seanpm2001/Bliss_Browser_Tabs/)
@@ -49,10 +51,12 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser Elm (module)`](https://github.com/seanpm2001/Bliss_Browser_Elm/)
 - - - [:octocat: `Bliss Browser HTML (module)`](https://github.com/seanpm2001/Bliss_Browser_HTML/)
 - - - [:octocat: `Bliss Browser JavaScript (module)`](https://github.com/seanpm2001/Bliss_Browser_JavaScript/)
+- - - [:octocat: `Bliss Browser Jinja (module)`](https://github.com/seanpm2001/Bliss_Browser_Jinja/)
 - - - [:octocat: `Bliss Browser Less (module)`](https://github.com/seanpm2001/Bliss_Browser_Less/)
 - - - [:octocat: `Bliss Browser Mako (module)`](https://github.com/seanpm2001/Bliss_Browser_Mako/)
 - - - [:octocat: `Bliss Browser MediaWiki (module)`](https://github.com/seanpm2001/Bliss_Browser_MediaWiki/)
 - - - [:octocat: `Bliss Browser Markdown (module)`](https://github.com/seanpm2001/Bliss_Browser_Markdown/)
+- - - [:octocat: `Bliss Browser Nunjucks (module)`](https://github.com/seanpm2001/Bliss_Browser_Nunjucks/)
 - - - [:octocat: `Bliss Browser PHP (module)`](https://github.com/seanpm2001/Bliss_Browser_PHP/)
 - - - [:octocat: `Bliss Browser Processing.js (module)`](https://github.com/seanpm2001/Bliss_Browser_Processing.js/)
 - - - [:octocat: `Bliss Browser Ruby (module)`](https://github.com/seanpm2001/Bliss_Browser_Ruby/)
@@ -86,6 +90,7 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser OSMode iPadOS Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_iPadOS_Shell/)
 - - - [:octocat: `Bliss Browser OSMode Kubuntu Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Kubuntu_Shell/)
 - - - [:octocat: `Bliss Browser OSMode Linux from Scratch Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode-LFS-Shell/)
+- - - [:octocat: `Bliss Browser OSMode Lubuntu Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Lubuntu_Shell/)
 - - - [:octocat: `Bliss Browser OSMode MacOS Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_MacOS_Shell/)
 - - - [:octocat: `Bliss Browser OSMode Meadows Linux Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode-Meadows-Shell/)
 - - - [:octocat: `Bliss Browser OSMode NetBSD Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_NetBSD_Shell/)
@@ -103,6 +108,7 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser OSMode Windows 10 Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Windows-10_Shell/)
 - - - [:octocat: `Bliss Browser OSMode Windows 11 Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Windows-11_Shell/)
 - - - [:octocat: `Bliss Browser OSMode Windows NT Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode-Windows-NT-Shell/)
+- - - [:octocat: `Bliss Browser OSMode Xubuntu Shell`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Xubuntu_Shell/)
 - [:octocat: `Candroid Browser`](https://github.com/seanpm2001/Candroid-Browser/)
 - [:octocat: `Silkworm Browser`](https://github.com/seanpm2001/Silkworm_web_browser/)
 - [:octocat: `WacOS OpenCyberdog Browser`](https://github.com/seanpm2001/WacOS_OpenCyberdog_Browser/)
@@ -126,9 +132,9 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `12 (2023, Sunday, February 12th at 4:57 pm PST)`
+**File version:** `13 (2023, Monday, February 13th at 7:52 pm PST)`
 
-**Line count (including blank lines and compiler line):** `374`
+**Line count (including blank lines and compiler line):** `398`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -357,6 +363,24 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 12
 - [ ] No other changes in version 12
+
+</details>
+
+<details><summary><p><b>Version 13 (2023, Monday, February 13th at 7:52 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] ...
+- - [x] Updated the `browsers` listing
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 13
+- [ ] No other changes in version 13
 
 </details>
 
