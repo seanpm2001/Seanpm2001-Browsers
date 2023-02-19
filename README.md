@@ -54,6 +54,7 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser Elm (module)`](https://github.com/seanpm2001/Bliss_Browser_Elm/)
 - - - [:octocat: `Bliss Browser Hack (module)`](https://github.com/seanpm2001/Bliss_Browser_Hack/)
 - - - [:octocat: `Bliss Browser Haml (module)`](https://github.com/seanpm2001/Bliss_Browser_HAML/)
+- - - [:octocat: `Bliss Browser HandleBars (module)`](https://github.com/seanpm2001/Bliss_Browser_Handlebars/)
 - - - [:octocat: `Bliss Browser HTML (module)`](https://github.com/seanpm2001/Bliss_Browser_HTML/)
 - - - [:octocat: `Bliss Browser JavaScript (module)`](https://github.com/seanpm2001/Bliss_Browser_JavaScript/)
 - - - [:octocat: `Bliss Browser JavaScript++ (module)`](https://github.com/seanpm2001/Bliss_Browser_JavaScript-Plus-Plus/)
@@ -63,13 +64,16 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser J# (module)`](https://github.com/seanpm2001/Bliss_Browser_JSharp/)
 - - - [:octocat: `Bliss Browser JSON5 (module)`](https://github.com/seanpm2001/Bliss_Browser_JSON5/)
 - - - [:octocat: `Bliss Browser Less (module)`](https://github.com/seanpm2001/Bliss_Browser_Less/)
+- - - [:octocat: `Bliss Browser Liquid (module)`](https://github.com/seanpm2001/Bliss_Browser_Liquid/)
 - - - [:octocat: `Bliss Browser LiveScript (module)`](https://github.com/seanpm2001/Bliss_Browser_LiveScript/)
 - - - [:octocat: `Bliss Browser Mako (module)`](https://github.com/seanpm2001/Bliss_Browser_Mako/)
 - - - [:octocat: `Bliss Browser Markdown (module)`](https://github.com/seanpm2001/Bliss_Browser_Markdown/)
 - - - [:octocat: `Bliss Browser MediaWiki (module)`](https://github.com/seanpm2001/Bliss_Browser_MediaWiki/)
 - - - [:octocat: `Bliss Browser Metal (module)`](https://github.com/seanpm2001/Bliss_Browser_Metal/)
 - - - [:octocat: `Bliss Browser Nunjucks (module)`](https://github.com/seanpm2001/Bliss_Browser_Nunjucks/)
+- - - [:octocat: `Bliss Browser PEG.js (module)`](https://github.com/seanpm2001/Bliss_Browser_Peg.js/)
 - - - [:octocat: `Bliss Browser PHP (module)`](https://github.com/seanpm2001/Bliss_Browser_PHP/)
+- - - [:octocat: `Bliss Browser Pod (module)`](https://github.com/seanpm2001/Bliss_Browser_Pod/)
 - - - [:octocat: `Bliss Browser Processing.js (module)`](https://github.com/seanpm2001/Bliss_Browser_Processing.js/)
 - - - [:octocat: `Bliss Browser Pug (module)`](https://github.com/seanpm2001/Bliss_Browser_Pug/)
 - - - [:octocat: `Bliss Browser Ruby (module)`](https://github.com/seanpm2001/Bliss_Browser_Ruby/)
@@ -150,9 +154,9 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `17 (2023, Friday, February 17th at 7:45 pm PST)`
+**File version:** `18 (2023, Saturday, February 18th at 5:32 pm PST)`
 
-**Line count (including blank lines and compiler line):** `488`
+**Line count (including blank lines and compiler line):** `510`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -471,6 +475,24 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 17
 - [ ] No other changes in version 17
+
+</details>
+
+<details><summary><p><b>Version 18 (2023, Saturday, February 18th at 5:32 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] ...
+- - [x] Updated the `browsers` listing
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 18
+- [ ] No other changes in version 18
 
 </details>
 
