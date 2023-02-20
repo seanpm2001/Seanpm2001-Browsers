@@ -52,10 +52,12 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser CSS (module)`](https://github.com/seanpm2001/Bliss_Browser_CSS/)
 - - - [:octocat: `Bliss Browser Dart (module)`](https://github.com/seanpm2001/Bliss_Browser_Dart/)
 - - - [:octocat: `Bliss Browser Elm (module)`](https://github.com/seanpm2001/Bliss_Browser_Elm/)
+- - - [:octocat: `Bliss Browser Google Apps Script (module)`](https://github.com/seanpm2001/Bliss_Browser_Google-Apps-Script/)
 - - - [:octocat: `Bliss Browser Hack (module)`](https://github.com/seanpm2001/Bliss_Browser_Hack/)
 - - - [:octocat: `Bliss Browser Haml (module)`](https://github.com/seanpm2001/Bliss_Browser_HAML/)
 - - - [:octocat: `Bliss Browser HandleBars (module)`](https://github.com/seanpm2001/Bliss_Browser_Handlebars/)
 - - - [:octocat: `Bliss Browser HTML (module)`](https://github.com/seanpm2001/Bliss_Browser_HTML/)
+- - - [:octocat: `Bliss Browser HXML (module)`](https://github.com/seanpm2001/Bliss_Browser_HXML/)
 - - - [:octocat: `Bliss Browser JavaScript (module)`](https://github.com/seanpm2001/Bliss_Browser_JavaScript/)
 - - - [:octocat: `Bliss Browser JavaScript++ (module)`](https://github.com/seanpm2001/Bliss_Browser_JavaScript-Plus-Plus/)
 - - - [:octocat: `Bliss Browser Jinja (module)`](https://github.com/seanpm2001/Bliss_Browser_Jinja/)
@@ -70,6 +72,7 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser Markdown (module)`](https://github.com/seanpm2001/Bliss_Browser_Markdown/)
 - - - [:octocat: `Bliss Browser MediaWiki (module)`](https://github.com/seanpm2001/Bliss_Browser_MediaWiki/)
 - - - [:octocat: `Bliss Browser Metal (module)`](https://github.com/seanpm2001/Bliss_Browser_Metal/)
+- - - [:octocat: `Bliss Browser Mustache (module)`](https://github.com/seanpm2001/Bliss_Browser_Mustache/)
 - - - [:octocat: `Bliss Browser Nunjucks (module)`](https://github.com/seanpm2001/Bliss_Browser_Nunjucks/)
 - - - [:octocat: `Bliss Browser PEG.js (module)`](https://github.com/seanpm2001/Bliss_Browser_Peg.js/)
 - - - [:octocat: `Bliss Browser PHP (module)`](https://github.com/seanpm2001/Bliss_Browser_PHP/)
@@ -87,6 +90,7 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser TOML (module)`](https://github.com/seanpm2001/Bliss_Browser_TOML/)
 - - - [:octocat: `Bliss Browser Twig (module)`](https://github.com/seanpm2001/Bliss_Browser_Twig/)
 - - - [:octocat: `Bliss Browser TypeScript (module)`](https://github.com/seanpm2001/Bliss_Browser_TypeScript/)
+- - - [:octocat: `Bliss Browser Vue.js (module)`](https://github.com/seanpm2001/Bliss_Browser_Vue.js/)
 - - - [:octocat: `Bliss Browser WebAssembly (module)`](https://github.com/seanpm2001/Bliss_Browser_WebAssembly/)
 - - - [:octocat: `Bliss Browser XML (module)`](https://github.com/seanpm2001/Bliss_Browser_XML/)
 - - - [:octocat: `Bliss Browser XUL (module)`](https://github.com/seanpm2001/Bliss_Browser_XUL/)
@@ -154,9 +158,9 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `18 (2023, Saturday, February 18th at 5:32 pm PST)`
+**File version:** `19 (2023, Sunday, February 19th at 5:02 pm PST)`
 
-**Line count (including blank lines and compiler line):** `510`
+**Line count (including blank lines and compiler line):** `532`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -493,6 +497,24 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 18
 - [ ] No other changes in version 18
+
+</details>
+
+<details><summary><p><b>Version 19 (2023, Sunday, February 19th at 5:02 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] ...
+- - [x] Updated the `browsers` listing
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 19
+- [ ] No other changes in version 19
 
 </details>
 
