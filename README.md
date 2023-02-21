@@ -77,12 +77,16 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser MediaWiki (module)`](https://github.com/seanpm2001/Bliss_Browser_MediaWiki/)
 - - - [:octocat: `Bliss Browser Metal (module)`](https://github.com/seanpm2001/Bliss_Browser_Metal/)
 - - - [:octocat: `Bliss Browser Mustache (module)`](https://github.com/seanpm2001/Bliss_Browser_Mustache/)
+- - - [:octocat: `Bliss Browser NGinx (module)`](https://github.com/seanpm2001/Bliss_Browser_NGinx/)
 - - - [:octocat: `Bliss Browser Nunjucks (module)`](https://github.com/seanpm2001/Bliss_Browser_Nunjucks/)
 - - - [:octocat: `Bliss Browser PEG.js (module)`](https://github.com/seanpm2001/Bliss_Browser_Peg.js/)
 - - - [:octocat: `Bliss Browser PHP (module)`](https://github.com/seanpm2001/Bliss_Browser_PHP/)
 - - - [:octocat: `Bliss Browser Pod (module)`](https://github.com/seanpm2001/Bliss_Browser_Pod/)
 - - - [:octocat: `Bliss Browser Processing.js (module)`](https://github.com/seanpm2001/Bliss_Browser_Processing.js/)
 - - - [:octocat: `Bliss Browser Pug (module)`](https://github.com/seanpm2001/Bliss_Browser_Pug/)
+- - - [:octocat: `Bliss Browser Reason (module)`](https://github.com/seanpm2001/Bliss_Browser_Reason/)
+- - - [:octocat: `Bliss Browser ReasonML (module)`](https://github.com/seanpm2001/Bliss_Browser_ReasonML/)
+- - - [:octocat: `Bliss Browser ReScript (module)`](https://github.com/seanpm2001/Bliss_Browser_ReScript/)
 - - - [:octocat: `Bliss Browser Ruby (module)`](https://github.com/seanpm2001/Bliss_Browser_Ruby/)
 - - - [:octocat: `Bliss Browser Roff (module)`](https://github.com/seanpm2001/Bliss_Browser_Roff/)
 - - - [:octocat: `Bliss Browser SASS (module)`](https://github.com/seanpm2001/Bliss_Browser_SASS/)
@@ -162,9 +166,9 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `20 (2023, Monday, February 20th at 5:28 pm PST)`
+**File version:** `21 (2023, Tuesday, February 21st at 1:23 pm PST)`
 
-**Line count (including blank lines and compiler line):** `554`
+**Line count (including blank lines and compiler line):** `576`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -537,6 +541,24 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 20
 - [ ] No other changes in version 20
+
+</details>
+
+<details><summary><p><b>Version 21 (2023, Tuesday, February 21st at 1:23 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] ...
+- - [x] Updated the `browsers` listing
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 21
+- [ ] No other changes in version 21
 
 </details>
 
