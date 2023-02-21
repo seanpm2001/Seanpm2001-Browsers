@@ -48,10 +48,13 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser BrightScript (module)`](https://github.com/seanpm2001/Bliss_Browser_BrightScript/)
 - - - [:octocat: `Bliss Browser BrighterScript (module)`](https://github.com/seanpm2001/Bliss_Browser_BrighterScript/)
 - - - [:octocat: `Bliss Browser CartoCSS (module)`](https://github.com/seanpm2001/Bliss_Browser_CartoCSS/)
+- - - [:octocat: `Bliss Browser CoffeeScript (module)`](https://github.com/seanpm2001/Bliss_Browser_CoffeeScript/)
 - - - [:octocat: `Bliss Browser Crystal (module)`](https://github.com/seanpm2001/Bliss_Browser_Crystal/)
 - - - [:octocat: `Bliss Browser CSS (module)`](https://github.com/seanpm2001/Bliss_Browser_CSS/)
 - - - [:octocat: `Bliss Browser Dart (module)`](https://github.com/seanpm2001/Bliss_Browser_Dart/)
 - - - [:octocat: `Bliss Browser Elm (module)`](https://github.com/seanpm2001/Bliss_Browser_Elm/)
+- - - [:octocat: `Bliss Browser FreeMarker (module)`](https://github.com/seanpm2001/Bliss_Browser_FreeMarker/)
+- - - [:octocat: `Bliss Browser Gherkin (module)`](https://github.com/seanpm2001/Bliss_Browser_Gherkin/)
 - - - [:octocat: `Bliss Browser Google Apps Script (module)`](https://github.com/seanpm2001/Bliss_Browser_Google-Apps-Script/)
 - - - [:octocat: `Bliss Browser Hack (module)`](https://github.com/seanpm2001/Bliss_Browser_Hack/)
 - - - [:octocat: `Bliss Browser Haml (module)`](https://github.com/seanpm2001/Bliss_Browser_HAML/)
@@ -65,6 +68,7 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser JScript.NET (module)`](https://github.com/seanpm2001/Bliss_Browser_JScript.NET/)
 - - - [:octocat: `Bliss Browser J# (module)`](https://github.com/seanpm2001/Bliss_Browser_JSharp/)
 - - - [:octocat: `Bliss Browser JSON5 (module)`](https://github.com/seanpm2001/Bliss_Browser_JSON5/)
+- - - [:octocat: `Bliss Browser Jsonnet (module)`](https://github.com/seanpm2001/Bliss_Browser_Jsonnet/)
 - - - [:octocat: `Bliss Browser Less (module)`](https://github.com/seanpm2001/Bliss_Browser_Less/)
 - - - [:octocat: `Bliss Browser Liquid (module)`](https://github.com/seanpm2001/Bliss_Browser_Liquid/)
 - - - [:octocat: `Bliss Browser LiveScript (module)`](https://github.com/seanpm2001/Bliss_Browser_LiveScript/)
@@ -158,9 +162,9 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `19 (2023, Sunday, February 19th at 5:02 pm PST)`
+**File version:** `20 (2023, Monday, February 20th at 5:28 pm PST)`
 
-**Line count (including blank lines and compiler line):** `532`
+**Line count (including blank lines and compiler line):** `554`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -515,6 +519,24 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 19
 - [ ] No other changes in version 19
+
+</details>
+
+<details><summary><p><b>Version 20 (2023, Monday, February 20th at 5:28 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] ...
+- - [x] Updated the `browsers` listing
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 20
+- [ ] No other changes in version 20
 
 </details>
 
