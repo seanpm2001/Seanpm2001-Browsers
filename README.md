@@ -50,6 +50,7 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser BrightScript (module)`](https://github.com/seanpm2001/Bliss_Browser_BrightScript/)
 - - - [:octocat: `Bliss Browser BrighterScript (module)`](https://github.com/seanpm2001/Bliss_Browser_BrighterScript/)
 - - - [:octocat: `Bliss Browser CartoCSS (module)`](https://github.com/seanpm2001/Bliss_Browser_CartoCSS/)
+- - - [:octocat: `Bliss Browser Clojure (module)`](https://github.com/seanpm2001/Bliss_Browser_Clojure/)
 - - - [:octocat: `Bliss Browser CoffeeScript (module)`](https://github.com/seanpm2001/Bliss_Browser_CoffeeScript/)
 - - - [:octocat: `Bliss Browser Crystal (module)`](https://github.com/seanpm2001/Bliss_Browser_Crystal/)
 - - - [:octocat: `Bliss Browser CSS (module)`](https://github.com/seanpm2001/Bliss_Browser_CSS/)
@@ -63,8 +64,11 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser Hack (module)`](https://github.com/seanpm2001/Bliss_Browser_Hack/)
 - - - [:octocat: `Bliss Browser Haml (module)`](https://github.com/seanpm2001/Bliss_Browser_HAML/)
 - - - [:octocat: `Bliss Browser HandleBars (module)`](https://github.com/seanpm2001/Bliss_Browser_Handlebars/)
+- - - [:octocaT: `Bliss Browser HCL (module)`](https://github.com/seanpm2001/Bliss_Browser_HCL/)
 - - - [:octocat: `Bliss Browser HTML (module)`](https://github.com/seanpm2001/Bliss_Browser_HTML/)
 - - - [:octocat: `Bliss Browser HXML (module)`](https://github.com/seanpm2001/Bliss_Browser_HXML/)
+- - - [:octocat: `Bliss Browser Hy (module)`](https://github.com/seanpm2001/Bliss_Browser_Hy/)
+- - - [:octocat: `Bliss Browser HyPhy (module)`](https://github.com/seanpm2001/Bliss_Browser_HyPhy/)
 - - - [:octocat: `Bliss Browser JavaScript (module)`](https://github.com/seanpm2001/Bliss_Browser_JavaScript/)
 - - - [:octocat: `Bliss Browser JavaScript++ (module)`](https://github.com/seanpm2001/Bliss_Browser_JavaScript-Plus-Plus/)
 - - - [:octocat: `Bliss Browser Jinja (module)`](https://github.com/seanpm2001/Bliss_Browser_Jinja/)
@@ -174,9 +178,9 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `23 (2023, Thursday, February 23rd at 7:09 pm PST)`
+**File version:** `24 (2023, Friday, February 24th at 7:24 pm PST)`
 
-**Line count (including blank lines and compiler line):** `620`
+**Line count (including blank lines and compiler line):** `642`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -603,6 +607,24 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 23
 - [ ] No other changes in version 23
+
+</details>
+
+<details><summary><p><b>Version 24 (2023, Friday, February 24th at 7:24 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] ...
+- - [x] Updated the `browsers` listing
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 24
+- [ ] No other changes in version 24
 
 </details>
 
