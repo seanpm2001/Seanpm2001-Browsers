@@ -10,7 +10,7 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 ## Listing
 
 ### Extensions
--
+
 - [:octocat: `3D Webpage Inspector`](https://github.com/seanpm2001/3D-WebPage-Inspector/)
 - [:octocat: `BlueCalm Theme`](https://github.com/seanpm2001/BlueCalm_Theme/)
 - [:octocat: `Browsniffica`](https://github.com/seanpm2001/Browsniffica/)
@@ -77,10 +77,14 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser J# (module)`](https://github.com/seanpm2001/Bliss_Browser_JSharp/)
 - - - [:octocat: `Bliss Browser JSON5 (module)`](https://github.com/seanpm2001/Bliss_Browser_JSON5/)
 - - - [:octocat: `Bliss Browser Jsonnet (module)`](https://github.com/seanpm2001/Bliss_Browser_Jsonnet/)
+- - - [:octocat: `Bliss Browser JSSS (module)`](https://github.com/seanpm2001/Bliss_Browser_JSSS/)
 - - - [:octocat: `Bliss Browser Less (module)`](https://github.com/seanpm2001/Bliss_Browser_Less/)
 - - - [:octocat: `Bliss Browser Liquid (module)`](https://github.com/seanpm2001/Bliss_Browser_Liquid/)
+- - - [:octocat: `Bliss Browser LiveCode (module)`](https://github.com/seanpm2001/Bliss_Browser_LiveCode/)
 - - - [:octocat: `Bliss Browser LiveScript (module)`](https://github.com/seanpm2001/Bliss_Browser_LiveScript/)
+- - - [:octocat: `Bliss Browser LOLCode (module)`](https://github.com/seanpm2001/Bliss_Browser_LOLCODE/)
 - - - [:octocat: `Bliss Browser Mako (module)`](https://github.com/seanpm2001/Bliss_Browser_Mako/)
+- - - [:octocat: `Bliss Browser Mallard (module)`](https://github.com/seanpm2001/Bliss_Browser_Mallard/)
 - - - [:octocat: `Bliss Browser Markdown (module)`](https://github.com/seanpm2001/Bliss_Browser_Markdown/)
 - - - [:octocat: `Bliss Browser MediaWiki (module)`](https://github.com/seanpm2001/Bliss_Browser_MediaWiki/)
 - - - [:octocat: `Bliss Browser Metal (module)`](https://github.com/seanpm2001/Bliss_Browser_Metal/)
@@ -178,9 +182,9 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `24 (2023, Friday, February 24th at 7:24 pm PST)`
+**File version:** `25 (2023, Saturday, February 25th at 10:36 pm PST)`
 
-**Line count (including blank lines and compiler line):** `642`
+**Line count (including blank lines and compiler line):** `664`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -625,6 +629,24 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 24
 - [ ] No other changes in version 24
+
+</details>
+
+<details><summary><p><b>Version 25 (2023, Saturday, February 25th at 10:36 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] ...
+- - [x] Updated the `browsers` listing
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 25
+- [ ] No other changes in version 25
 
 </details>
 
