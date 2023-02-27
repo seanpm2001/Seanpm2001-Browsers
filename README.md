@@ -56,6 +56,7 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser CSS (module)`](https://github.com/seanpm2001/Bliss_Browser_CSS/)
 - - - [:octocat: `Bliss Browser CSV (module)`](https://github.com/seanpm2001/Bliss_Browser_CSV/)
 - - - [:octocat: `Bliss Browser Dart (module)`](https://github.com/seanpm2001/Bliss_Browser_Dart/)
+- - - [:octocat: `Bliss Browser Earthly (module)`](https://github.com/seanpm2001/Bliss_Browser_Earthly/)
 - - - [:octocat: `Bliss Browser Elm (module)`](https://github.com/seanpm2001/Bliss_Browser_Elm/)
 - - - [:octocaT: `Bliss Browser ECMAScript (module)`](https://github.com/seanpm2001/Bliss_Browser_ECMAScript/)
 - - - [:octocat: `Bliss Browser FreeMarker (module)`](https://github.com/seanpm2001/Bliss_Browser_FreeMarker/)
@@ -89,6 +90,7 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser MediaWiki (module)`](https://github.com/seanpm2001/Bliss_Browser_MediaWiki/)
 - - - [:octocat: `Bliss Browser Metal (module)`](https://github.com/seanpm2001/Bliss_Browser_Metal/)
 - - - [:octocat: `Bliss Browser Mustache (module)`](https://github.com/seanpm2001/Bliss_Browser_Mustache/)
+- - - [:octocat: `Bliss Browser NetREXX (module)`](https://github.com/seanpm2001/Bliss_Browser_NetREXX/)
 - - - [:octocat: `Bliss Browser NGinx (module)`](https://github.com/seanpm2001/Bliss_Browser_NGinx/)
 - - - [:octocat: `Bliss Browser Nunjucks (module)`](https://github.com/seanpm2001/Bliss_Browser_Nunjucks/)
 - - - [:octocat: `Bliss Browser PEG.js (module)`](https://github.com/seanpm2001/Bliss_Browser_Peg.js/)
@@ -106,6 +108,7 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser SASS (module)`](https://github.com/seanpm2001/Bliss_Browser_SASS/)
 - - - [:octocat: `Bliss Browser SCSS (module)`](https://github.com/seanpm2001/Bliss_Browser_SCSS/)
 - - - [:octocat: `Bliss Browser SGML (module)`](https://github.com/seanpm2001/Bliss_Browser_SGML/)
+- - - [:octocat: `Bliss Browser Singularity (module)`](https://github.com/seanpm2001/Bliss_Browser_Singularity/)
 - - - [:octocat: `Bliss Browser Slim (module)`](https://github.com/seanpm2001/Bliss_Browser_Slim/)
 - - - [:octocat: `Bliss Browser Smarty (module)`](https://github.com/seanpm2001/Bliss_Browser_Smarty/)
 - - - [:octocat: `Bliss Browser StrictYAML (module)`](https://github.com/seanpm2001/Bliss_Browser_StrictYAML/)
@@ -116,6 +119,7 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser TypeScript (module)`](https://github.com/seanpm2001/Bliss_Browser_TypeScript/)
 - - - [:octocat: `Bliss Browser Vue.js (module)`](https://github.com/seanpm2001/Bliss_Browser_Vue.js/)
 - - - [:octocat: `Bliss Browser WebAssembly (module)`](https://github.com/seanpm2001/Bliss_Browser_WebAssembly/)
+- - - [:octocat: `Bliss Browser WebVTT (module)`](https://github.com/seanpm2001/Bliss_Browser_WebVTT/)
 - - - [:octocat: `Bliss Browser XML (module)`](https://github.com/seanpm2001/Bliss_Browser_XML/)
 - - - [:octocat: `Bliss Browser XUL (module)`](https://github.com/seanpm2001/Bliss_Browser_XUL/)
 - - - [:octocat: `Bliss Browser YAML (module)`](https://github.com/seanpm2001/Bliss_Browser_YAML/)
@@ -182,9 +186,9 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `25 (2023, Saturday, February 25th at 10:36 pm PST)`
+**File version:** `26 (2023, Sunday, February 26th at 8:56 pm PST)`
 
-**Line count (including blank lines and compiler line):** `664`
+**Line count (including blank lines and compiler line):** `686`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -647,6 +651,24 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 25
 - [ ] No other changes in version 25
+
+</details>
+
+<details><summary><p><b>Version 26 (2023, Sunday, February 26th at 8:56 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] ...
+- - [x] Updated the `browsers` listing
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 26
+- [ ] No other changes in version 26
 
 </details>
 
