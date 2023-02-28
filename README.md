@@ -57,6 +57,7 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser CSS (module)`](https://github.com/seanpm2001/Bliss_Browser_CSS/)
 - - - [:octocat: `Bliss Browser CSV (module)`](https://github.com/seanpm2001/Bliss_Browser_CSV/)
 - - - [:octocat: `Bliss Browser Dart (module)`](https://github.com/seanpm2001/Bliss_Browser_Dart/)
+- - - [:octocat: `Bliss Browser DogeScript (module)`](https://github.com/seanpm2001/Bliss_Browser_DogeScript/)
 - - - [:octocat: `Bliss Browser Earthly (module)`](https://github.com/seanpm2001/Bliss_Browser_Earthly/)
 - - - [:octocat: `Bliss Browser Elm (module)`](https://github.com/seanpm2001/Bliss_Browser_Elm/)
 - - - [:octocat: `Bliss Browser ECMAScript (module)`](https://github.com/seanpm2001/Bliss_Browser_ECMAScript/)
@@ -190,9 +191,9 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `27 (2023, Monday, February 27th at 10:42 pm PST)`
+**File version:** `28 (2023, Tuesday, February 28th at 2:33 pm PST)`
 
-**Line count (including blank lines and compiler line):** `708`
+**Line count (including blank lines and compiler line):** `727`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -691,6 +692,24 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 27
 - [ ] No other changes in version 27
+
+</details>
+
+<details><summary><p><b>Version 28 (2023, Tuesday, February 28th at 2:33 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] ...
+- - [x] Updated the `browsers` listing
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 28
+- [ ] No other changes in version 28
 
 </details>
 
