@@ -53,6 +53,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser CartoCSS (module)`](https://github.com/seanpm2001/Bliss_Browser_CartoCSS/)
 - - - [:octocat: `Bliss Browser Clojure (module)`](https://github.com/seanpm2001/Bliss_Browser_Clojure/)
 - - - [:octocat: `Bliss Browser CoffeeScript (module)`](https://github.com/seanpm2001/Bliss_Browser_CoffeeScript/)
+- - - [:octocat: `Bliss Browser ColdFusion (module)`](https://github.com/seanpm2001/Bliss_Browser_ColdFusion/)
+- - - [:octocat: `Bliss Browser ColdFusion CFC (module)`](https://github.com/seanpm2001/Bliss_Browser_ColdFusion-CFC/)
 - - - [:octocat: `Bliss Browser Crystal (module)`](https://github.com/seanpm2001/Bliss_Browser_Crystal/)
 - - - [:octocat: `Bliss Browser CSS (module)`](https://github.com/seanpm2001/Bliss_Browser_CSS/)
 - - - [:octocat: `Bliss Browser CSV (module)`](https://github.com/seanpm2001/Bliss_Browser_CSV/)
@@ -115,6 +117,7 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser Slash (module)`](https://github.com/seanpm2001/Bliss_Browser_Slash/)
 - - - [:octocat: `Bliss Browser Slim (module)`](https://github.com/seanpm2001/Bliss_Browser_Slim/)
 - - - [:octocat: `Bliss Browser Smarty (module)`](https://github.com/seanpm2001/Bliss_Browser_Smarty/)
+- - - [:octocat: `Bliss Browser SugarSS (module)`](https://github.com/seanpm2001/Bliss_Browser_SugarSS/)
 - - - [:octocat: `Bliss Browser StrictYAML (module)`](https://github.com/seanpm2001/Bliss_Browser_StrictYAML/)
 - - - [:octocat: `Bliss Browser Svelte (module)`](https://github.com/seanpm2001/Bliss_Browser_Svelte/)
 - - - [:octocat: `Bliss Browser Thrift (module)`](https://github.com/seanpm2001/Bliss_Browser_Thrift/)
@@ -123,6 +126,7 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser TypeScript (module)`](https://github.com/seanpm2001/Bliss_Browser_TypeScript/)
 - - - [:octocat: `Bliss Browser Vue.js (module)`](https://github.com/seanpm2001/Bliss_Browser_Vue.js/)
 - - - [:octocat: `Bliss Browser WebAssembly (module)`](https://github.com/seanpm2001/Bliss_Browser_WebAssembly/)
+- - - [:octocat: `Bliss Browser WebIDL (module)`](https://github.com/seanpm2001/Bliss_Browser_WebIDL/)
 - - - [:octocat: `Bliss Browser WebVTT (module)`](https://github.com/seanpm2001/Bliss_Browser_WebVTT/)
 - - - [:octocat: `Bliss Browser XML (module)`](https://github.com/seanpm2001/Bliss_Browser_XML/)
 - - - [:octocat: `Bliss Browser XS (module)`](https://github.com/seanpm2001/Bliss_Browser_XS/)
@@ -191,9 +195,9 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `28 (2023, Tuesday, February 28th at 2:33 pm PST)`
+**File version:** `29 (2023, Wednesday, March 1st at 10:54 pm PST)`
 
-**Line count (including blank lines and compiler line):** `727`
+**Line count (including blank lines and compiler line):** `749`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -710,6 +714,24 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 28
 - [ ] No other changes in version 28
+
+</details>
+
+<details><summary><p><b>Version 29 (2023, Wednesday, March 1st at 10:54 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] ...
+- - [x] Updated the `browsers` listing
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 29
+- [ ] No other changes in version 29
 
 </details>
 
