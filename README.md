@@ -24,6 +24,7 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - [:octocat: `Bliss Browser Docs`](https://github.com/seanpm2001/Bliss_Browser_Docs/)
 - - [:octocat: `Bliss Browser Settings`](https://github.com/seanpm2001/Bliss_Browser_Settings/)
 - - [:octocat: `Bliss Browser Core`](https://github.com/seanpm2001/Bliss_Browser_Core/)
+- - - [:octocat: `Bliss Browser AtomFeed`](https://github.com/seanpm2001/Bliss_Browser_AtomFeed/)
 - - - [:octocat: `Bliss Browser Audio Player`](https://github.com/seanpm2001/Bliss_Browser_AudioPlayer/)
 - - - [:octocat: `Bliss Browser Document Viewer`](https://github.com/seanpm2001/Bliss_Browser_DocumentViewer/)
 - - - [:octocat: `Bliss Browser EPUBMode`](https://github.com/seanpm2001/Bliss_Browser_EPUBMode/)
@@ -33,6 +34,7 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser Onion`](https://github.com/seanpm2001/Bliss_Browser_Onion/)
 - - - [:octocat: `Bliss Browser Onion Router`](https://github.com/seanpm2001/Bliss_Browser_OnionRouter/)
 - - - [:octocat: `Bliss Browser PDF Mode`](https://github.com/seanpm2001/Bliss_Browser_PDFMode/)
+- - - [:octocat: `Bliss Browser RSS`](https://github.com/seanpm2001/Bliss_Browser_RSS/)
 - - - [:octocat: `Bliss Browser Search Engines`](https://github.com/seanpm2001/Bliss_Browser_SearchEngines/)
 - - - [:octocat: `Bliss Browser Tabs`](https://github.com/seanpm2001/Bliss_Browser_Tabs/)
 - - - [:octocat: `Bliss Browser Themes`](https://github.com/seanpm2001/Bliss_Browser_Themes/)
@@ -199,9 +201,9 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `31 (2023, Friday, March 3rd at 2:45 pm PST)`
+**File version:** `32 (2023, Monday, March 6th at 9:11 pm PST)`
 
-**Line count (including blank lines and compiler line):** `789`
+**Line count (including blank lines and compiler line):** `809`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -772,6 +774,24 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 31
 - [ ] No other changes in version 31
+
+</details>
+
+<details><summary><p><b>Version 32 (2023, Monday, March 6th at 9:11 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] ...
+- - [x] Updated the `browsers` listing
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 32
+- [ ] No other changes in version 32
 
 </details>
 
