@@ -34,7 +34,9 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser Document Viewer`](https://github.com/seanpm2001/Bliss_Browser_DocumentViewer/)
 - - - [:octocat: `Bliss Browser EPUBMode`](https://github.com/seanpm2001/Bliss_Browser_EPUBMode/)
 - - - [:octocat: `Bliss Browser Fonts`](https://github.com/seanpm2001/Bliss_Browser_Fonts/)
+- - - [:octocat: `Bliss Browser History`](https://github.com/seanpm2001/Bliss_Browser_History/)
 - - - [:octocat: `Bliss Browser Image Viewer`](https://github.com/seanpm2001/Bliss_Browser_ImageViewer/)
+- - - [:octocat: `Bliss Browser Import from another browser`](https://github.com/seanpm2001/Bliss_Browser_Import-from-another-browser/)
 - - - [:octocat: `Bliss Browser jQuery`](https://github.com/seanpm2001/Bliss_Browser_JQuery/)
 - - - [:octocat: `Bliss Browser Notification Manager`](https://github.com/seanpm2001/Bliss_Browser_Notification-Manager/)
 - - - [:octocat: `Bliss Browser Onion`](https://github.com/seanpm2001/Bliss_Browser_Onion/)
@@ -213,9 +215,9 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `38 (2023, Tuesday, March 14th at 7:37 pm PST)`
+**File version:** `39 (2023, Wednesday, March 15th at 2:14 pm PST)`
 
-**Line count (including blank lines and compiler line):** `939`
+**Line count (including blank lines and compiler line):** `949`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -912,6 +914,24 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 38
 - [ ] No other changes in version 38
+
+</details>
+
+<details><summary><p><b>Version 39 (2023, Wednesday, March 15th at 2:14 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] ...
+- - [x] Updated the `browsers` listing
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 39
+- [ ] No other changes in version 39
 
 </details>
 
