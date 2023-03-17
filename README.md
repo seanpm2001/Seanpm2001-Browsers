@@ -37,6 +37,7 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser History`](https://github.com/seanpm2001/Bliss_Browser_History/)
 - - - [:octocat: `Bliss Browser Image Viewer`](https://github.com/seanpm2001/Bliss_Browser_ImageViewer/)
 - - - [:octocat: `Bliss Browser Import from another browser`](https://github.com/seanpm2001/Bliss_Browser_Import-from-another-browser/)
+- - - [:octocat: `Bliss Browser Installer`](https://github.com/seanpm2001/Bliss_Browser_Installer/)
 - - - [:octocat: `Bliss Browser jQuery`](https://github.com/seanpm2001/Bliss_Browser_JQuery/)
 - - - [:octocat: `Bliss Browser Notification Manager`](https://github.com/seanpm2001/Bliss_Browser_Notification-Manager/)
 - - - [:octocat: `Bliss Browser Onion`](https://github.com/seanpm2001/Bliss_Browser_Onion/)
@@ -50,6 +51,7 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser Tabs`](https://github.com/seanpm2001/Bliss_Browser_Tabs/)
 - - - [:octocat: `Bliss Browser Theme Maker`](https://github.com/seanpm2001/Bliss_Browser_Theme-Maker/)
 - - - [:octocat: `Bliss Browser Themes`](https://github.com/seanpm2001/Bliss_Browser_Themes/)
+- - - [:octocat: `Bliss Browser Uninstaller`](https://github.com/seanpm2001/Bliss_Browser_Uninstaller/)
 - - - [:octocat: `Bliss Browser Video Player`](https://github.com/seanpm2001/Bliss_Browser_VideoPlayer/)
 - - - [:octocat: `Bliss Browser WebGL`](https://github.com/seanpm2001/Bliss_Browser_WebGL/)
 - - - [:octocat: `Bliss Browser XUL support`](https://github.com/seanpm2001/Bliss_Browser_XUL_Support/)
@@ -215,9 +217,9 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `39 (2023, Wednesday, March 15th at 2:14 pm PST)`
+**File version:** `40 (2023, Thursday, March 16th at 7:02 pm PST)`
 
-**Line count (including blank lines and compiler line):** `949`
+**Line count (including blank lines and compiler line):** `969`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -932,6 +934,24 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 39
 - [ ] No other changes in version 39
+
+</details>
+
+<details><summary><p><b>Version 40 (2023, Thursday, March 16th at 7:02 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] ...
+- - [x] Updated the `browsers` listing
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 40
+- [ ] No other changes in version 40
 
 </details>
 
