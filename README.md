@@ -31,6 +31,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser AtomFeed`](https://github.com/seanpm2001/Bliss_Browser_AtomFeed/)
 - - - [:octocat: `Bliss Browser Audio Player`](https://github.com/seanpm2001/Bliss_Browser_AudioPlayer/)
 - - - [:octocat: `Bliss Browser Bookmarks`](https://github.com/seanpm2001/Bliss_Browser_Bookmarks/)
+- - - [:octocat: `Bliss Browser Cookie Jar`](https://github.com/seanpm2001/Bliss_Browser_Cookie-Jar/)
+- - - [:octocat: `Bliss Browser Data Manager`](https://github.com/seanpm2001/Bliss_Browser_Data-Manager/)
 - - - [:octocat: `Bliss Browser Document Viewer`](https://github.com/seanpm2001/Bliss_Browser_DocumentViewer/)
 - - - [:octocat: `Bliss Browser EPUBMode`](https://github.com/seanpm2001/Bliss_Browser_EPUBMode/)
 - - - [:octocat: `Bliss Browser Fonts`](https://github.com/seanpm2001/Bliss_Browser_Fonts/)
@@ -219,9 +221,9 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `41 (2023, Friday, March 17th at 5:52 pm PST)`
+**File version:** `42 (2023, Saturday, March 18th at 7:19 pm PST)`
 
-**Line count (including blank lines and compiler line):** `989`
+**Line count (including blank lines and compiler line):** `1,009`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -972,6 +974,24 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 41
 - [ ] No other changes in version 41
+
+</details>
+
+<details><summary><p><b>Version 42 (2023, Saturday, March 18th at 7:19 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] ...
+- - [x] Updated the `browsers` listing
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 42
+- [ ] No other changes in version 42
 
 </details>
 
