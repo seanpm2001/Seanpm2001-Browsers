@@ -1,15 +1,23 @@
 
 ***
 
-# Seanpm2001 Browsers
+<img src="/Konqueror_2K.png" width="148" height="148" align="left" style="margin-right: 30px">
+
+# [Seanpm2001 Browsers](#Seanpm2001-Browsers)
 
 A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 > **Note** To see an older listing, check [:octocat: `SeanWallaWalla Browsers`](https://github.com/seanpm2001/Seanwallawalla-Browsers/)
 
-## Listing
+***
 
-### Extensions
+## [Listing](#Listing)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+### [Extensions](#Extensions)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 - [:octocat: `3D Webpage Inspector`](https://github.com/seanpm2001/3D-WebPage-Inspector/)
 - [:octocat: `BlueCalm Theme`](https://github.com/seanpm2001/BlueCalm_Theme/)
@@ -18,7 +26,11 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - [:octocat: `LinkLax`](https://github.com/seanpm2001/LinkLax/)
 - [:octocat: `NexxFetch`](https://github.com/seanpm2001/NexxFetch/)
 
-### Browsers
+</details>
+
+### [Browsers](#Browsers)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 - [:octocat: `Bliss Browser`](https://github.com/seanpm2001/Bliss_Browser/)
 - - [:octocat: `Bliss Browser Docs`](https://github.com/seanpm2001/Bliss_Browser_Docs/)
@@ -50,8 +62,10 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser Popup Manager`](https://github.com/seanpm2001/Bliss_Browser_Popup-Manager/)
 - - - [:octocat: `Bliss Browser Redirection`](https://github.com/seanpm2001/Bliss_Browser_Redirection/)
 - - - [:octocat: `Bliss Browser RSS`](https://github.com/seanpm2001/Bliss_Browser_RSS/)
+- - - [:octocat: `Bliss Browser Safe Mode`](https://github.com/seanpm2001/Bliss_Browser_Safe-Mode/)
 - - - [:octocat: `Bliss Browser Screenshot Tool`](https://github.com/seanpm2001/Bliss_Browser_Screenshot-Tool/)
 - - - [:octocat: `Bliss Browser Search Engines`](https://github.com/seanpm2001/Bliss_Browser_SearchEngines/)
+- - - [:octocat: `Bliss Browser SNU Addon`](https://github.com/seanpm2001/Bliss_Browser_SNU-Addon/)
 - - - [:octocat: `Bliss Browser Tabs`](https://github.com/seanpm2001/Bliss_Browser_Tabs/)
 - - - [:octocat: `Bliss Browser Theme Maker`](https://github.com/seanpm2001/Bliss_Browser_Theme-Maker/)
 - - - [:octocat: `Bliss Browser Themes`](https://github.com/seanpm2001/Bliss_Browser_Themes/)
@@ -203,7 +217,11 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - [:octocat: `WacOS OpenCyberdog Browser`](https://github.com/seanpm2001/WacOS_OpenCyberdog_Browser/)
 - [:octocat: `WacOS Savannah Browser`](https://github.com/seanpm2001/WacOS_Savannah_Browser/)
 
-### Related
+</details>
+
+### [Related](#Related)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 - [:octocat: `Firefox version number fix`](https://github.com/seanpm2001/Firefox-version-number-fix/)
 - [:octocat: `Meadows WebMode`](https://github.com/seanpm2001/Meadows_WebMode/)
@@ -213,17 +231,21 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - [:octocat: `SeansLifeArchive / Images / Mozilla Firefox`](https://github.com/seanpm2001/SeansLifeArchive_Images_Mozilla-firefox/)
 - [:octocat: `SeansLifeArchive / Images / FirefoxAddon / Redirector`](https://github.com/seanpm2001/SeansLifeArchive_Images_FirefoxAddon_Redirector/)
 
+</details>
+
+</details>
+
 ***
 
-### File info
+### [File info](#File-info)
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `42 (2023, Saturday, March 18th at 7:19 pm PST)`
+**File version:** `43 (2023, Sunday, March 19th at 2:55 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,009`
+**Line count (including blank lines and compiler line):** `1,196`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -235,15 +257,19 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 > **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
 
+</details>
+
 ***
 
-## File history
+## [File history](#File-history)
 
 <details><summary><p><b>Click/tap here to expand/collapse the file history for this file</b></p></summary>
 
 <details><summary><p><b>Version 1 (2023, Wednesday, February 1st at 3:57 pm PST)</b></p></summary>
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _The first release_
 
 > Changes
 
@@ -262,6 +288,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
+> **Note** _No additional notes are currently available for this version._
+
 > Changes
 
 - [x] ...
@@ -274,6 +302,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 <details><summary><p><b>Version 3 (2023, Friday, February 3rd at 4:51 pm PST)</b></p></summary>
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _No additional notes are currently available for this version._
 
 > Changes
 
@@ -297,6 +327,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
+> **Note** _No additional notes are currently available for this version._
+
 > Changes
 
 - [x] ...
@@ -314,6 +346,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 <details><summary><p><b>Version 5 (2023, Sunday, February 5th at 4:08 pm PST)</b></p></summary>
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _No additional notes are currently available for this version._
 
 > Changes
 
@@ -333,6 +367,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
+> **Note** _No additional notes are currently available for this version._
+
 > Changes
 
 - [x] ...
@@ -350,6 +386,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 <details><summary><p><b>Version 7 (2023, Tuesday, February 7th at 6:15 pm PST)</b></p></summary>
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _No additional notes are currently available for this version._
 
 > Changes
 
@@ -369,6 +407,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
+> **Note** _No additional notes are currently available for this version._
+
 > Changes
 
 - [x] ...
@@ -386,6 +426,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 <details><summary><p><b>Version 9 (2023, Thursday, February 9th at 1:38 pm PST)</b></p></summary>
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _No additional notes are currently available for this version._
 
 > Changes
 
@@ -405,6 +447,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
+> **Note** _No additional notes are currently available for this version._
+
 > Changes
 
 - [x] ...
@@ -422,6 +466,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 <details><summary><p><b>Version 11 (2023, Saturday, February 11th at 6:47 pm PST)</b></p></summary>
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _No additional notes are currently available for this version._
 
 > Changes
 
@@ -441,6 +487,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
+> **Note** _No additional notes are currently available for this version._
+
 > Changes
 
 - [x] ...
@@ -458,6 +506,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 <details><summary><p><b>Version 13 (2023, Monday, February 13th at 7:52 pm PST)</b></p></summary>
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _No additional notes are currently available for this version._
 
 > Changes
 
@@ -477,6 +527,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
+> **Note** _No additional notes are currently available for this version._
+
 > Changes
 
 - [x] ...
@@ -494,6 +546,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 <details><summary><p><b>Version 15 (2023, Wednesday, February 15th at 7:05 pm PST)</b></p></summary>
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _No additional notes are currently available for this version._
 
 > Changes
 
@@ -513,6 +567,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
+> **Note** _No additional notes are currently available for this version._
+
 > Changes
 
 - [x] ...
@@ -530,6 +586,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 <details><summary><p><b>Version 17 (2023, Friday, February 17th at 7:45 pm PST)</b></p></summary>
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _No additional notes are currently available for this version._
 
 > Changes
 
@@ -549,6 +607,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
+> **Note** _No additional notes are currently available for this version._
+
 > Changes
 
 - [x] ...
@@ -566,6 +626,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 <details><summary><p><b>Version 19 (2023, Sunday, February 19th at 5:02 pm PST)</b></p></summary>
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _No additional notes are currently available for this version._
 
 > Changes
 
@@ -585,6 +647,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
+> **Note** _No additional notes are currently available for this version._
+
 > Changes
 
 - [x] ...
@@ -602,6 +666,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 <details><summary><p><b>Version 21 (2023, Tuesday, February 21st at 1:23 pm PST)</b></p></summary>
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _No additional notes are currently available for this version._
 
 > Changes
 
@@ -621,6 +687,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
+> **Note** _No additional notes are currently available for this version._
+
 > Changes
 
 - [x] ...
@@ -638,6 +706,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 <details><summary><p><b>Version 23 (2023, Thursday, February 23rd at 7:09 pm PST)</b></p></summary>
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _No additional notes are currently available for this version._
 
 > Changes
 
@@ -657,6 +727,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
+> **Note** _No additional notes are currently available for this version._
+
 > Changes
 
 - [x] ...
@@ -674,6 +746,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 <details><summary><p><b>Version 25 (2023, Saturday, February 25th at 10:36 pm PST)</b></p></summary>
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _No additional notes are currently available for this version._
 
 > Changes
 
@@ -693,6 +767,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
+> **Note** _No additional notes are currently available for this version._
+
 > Changes
 
 - [x] ...
@@ -710,6 +786,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 <details><summary><p><b>Version 27 (2023, Monday, February 27th at 10:42 pm PST)</b></p></summary>
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _No additional notes are currently available for this version._
 
 > Changes
 
@@ -729,6 +807,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
+> **Note** _No additional notes are currently available for this version._
+
 > Changes
 
 - [x] ...
@@ -746,6 +826,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 <details><summary><p><b>Version 29 (2023, Wednesday, March 1st at 10:54 pm PST)</b></p></summary>
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _No additional notes are currently available for this version._
 
 > Changes
 
@@ -765,6 +847,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
+> **Note** _No additional notes are currently available for this version._
+
 > Changes
 
 - [x] ...
@@ -782,6 +866,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 <details><summary><p><b>Version 31 (2023, Friday, March 3rd at 2:45 pm PST)</b></p></summary>
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _No additional notes are currently available for this version._
 
 > Changes
 
@@ -819,6 +905,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
+> **Note** _No additional notes are currently available for this version._
+
 > Changes
 
 - [x] ...
@@ -836,6 +924,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 <details><summary><p><b>Version 34 (2023, Wednesday, March 8th at 3:33 pm PST)</b></p></summary>
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _No additional notes are currently available for this version._
 
 > Changes
 
@@ -855,6 +945,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
+> **Note** _No additional notes are currently available for this version._
+
 > Changes
 
 - [x] ...
@@ -872,6 +964,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 <details><summary><p><b>Version 36 (2023, Sunday, March 12th at 9:13 pm PST)</b></p></summary>
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _No additional notes are currently available for this version._
 
 > Changes
 
@@ -891,6 +985,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
+> **Note** _No additional notes are currently available for this version._
+
 > Changes
 
 - [x] ...
@@ -908,6 +1004,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 <details><summary><p><b>Version 38 (2023, Tuesday, March 14th at 7:37 pm PST)</b></p></summary>
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _No additional notes are currently available for this version._
 
 > Changes
 
@@ -927,6 +1025,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
+> **Note** _No additional notes are currently available for this version._
+
 > Changes
 
 - [x] ...
@@ -944,6 +1044,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 <details><summary><p><b>Version 40 (2023, Thursday, March 16th at 7:02 pm PST)</b></p></summary>
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _No additional notes are currently available for this version._
 
 > Changes
 
@@ -963,6 +1065,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
+> **Note** _No additional notes are currently available for this version._
+
 > Changes
 
 - [x] ...
@@ -981,6 +1085,8 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 - This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
+> **Note** _No additional notes are currently available for this version._
+
 > Changes
 
 - [x] ...
@@ -995,11 +1101,92 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 </details>
 
+<details><summary><p><b>Version 43 (2023, Sunday, March 19th at 2:55 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This is a major update. Several important improvements were made._
+
+> Changes
+
+- [x] Updated the title section
+- - [x] Added a centered logo
+- - [x] Added an anchor link to the heading
+- [x] Updated the `Listing` section
+- - [x] Added an anchor link to the heading
+- - [x] Turned the section into a dropdown section
+- - [x] Updated the `Extensions` listing section
+- - - [x] Turned the section into a dropdown section
+- - - [x] Added an anchor link to the heading
+- - [x] Updated the `Browsers` listing section
+- - - [x] Added 2 new entries
+- - - [x] Turned the section into a dropdown section
+- - - [x] Added an anchor link to the heading
+- - [x] Updated the `Related` listing section
+- - - [x] Turned the section into a dropdown section
+- - - [x] Added an anchor link to the heading
+- [x] Updated the `file info` section
+- - [x] Fixed a broken dropdown
+- - [x] Added an anchor link to the heading
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an anchor link to the heading
+- - [x] Updated the entry for version 1
+- - [x] Updated the entry for version 2
+- - [x] Updated the entry for version 3
+- - [x] Updated the entry for version 4
+- - [x] Updated the entry for version 5
+- - [x] Updated the entry for version 6
+- - [x] Updated the entry for version 7
+- - [x] Updated the entry for version 8
+- - [x] Updated the entry for version 9
+- - [x] Updated the entry for version 10
+- - [x] Updated the entry for version 11
+- - [x] Updated the entry for version 12
+- - [x] Updated the entry for version 13
+- - [x] Updated the entry for version 14
+- - [x] Updated the entry for version 15
+- - [x] Updated the entry for version 16
+- - [x] Updated the entry for version 17
+- - [x] Updated the entry for version 18
+- - [x] Updated the entry for version 19
+- - [x] Updated the entry for version 20
+- - [x] Updated the entry for version 21
+- - [x] Updated the entry for version 22
+- - [x] Updated the entry for version 23
+- - [x] Updated the entry for version 24
+- - [x] Updated the entry for version 25
+- - [x] Updated the entry for version 26
+- - [x] Updated the entry for version 27
+- - [x] Updated the entry for version 28
+- - [x] Updated the entry for version 29
+- - [x] Updated the entry for version 30
+- - [x] Updated the entry for version 31
+- - [x] Updated the entry for version 32
+- - [x] Updated the entry for version 33
+- - [x] Updated the entry for version 34
+- - [x] Updated the entry for version 35
+- - [x] Updated the entry for version 36
+- - [x] Updated the entry for version 37
+- - [x] Updated the entry for version 38
+- - [x] Updated the entry for version 39
+- - [x] Updated the entry for version 40
+- - [x] Updated the entry for version 41
+- - [x] Updated the entry for version 42
+- - [x] Added an entry for version 43
+- [x] Updated the footer
+- - [x] Added an anchor link to the heading
+- [ ] No other changes in version 43
+
+</details>
+
 </details>
 
 ***
 
-###### Footer
+###### [Footer](#Footer)
 
 You have reached the end of this document.
 
