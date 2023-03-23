@@ -41,6 +41,7 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser Acid2`](https://github.com/seanpm2001/Bliss_Browser_Acid2/)
 - - - [:octocat: `Bliss Browser Acid3`](https://github.com/seanpm2001/Bliss_Browser_Acid3/)
 - - - [:octocat: `Bliss Browser Addon Studio`](https://github.com/seanpm2001/Bliss_Browser_Addon-Studio/)
+- - - [:octocat: `Bliss Browser AJAX`](https://github.com/seanpm2001/Bliss_Browser_AJAX/)
 - - - [:octocat: `Bliss Browser AtomFeed`](https://github.com/seanpm2001/Bliss_Browser_AtomFeed/)
 - - - [:octocat: `Bliss Browser Audio Player`](https://github.com/seanpm2001/Bliss_Browser_AudioPlayer/)
 - - - [:octocat: `Bliss Browser Bookmarks`](https://github.com/seanpm2001/Bliss_Browser_Bookmarks/)
@@ -77,6 +78,7 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser Uninstaller`](https://github.com/seanpm2001/Bliss_Browser_Uninstaller/)
 - - - [:octocat: `Bliss Browser Video Player`](https://github.com/seanpm2001/Bliss_Browser_VideoPlayer/)
 - - - [:octocat: `Bliss Browser WebGL`](https://github.com/seanpm2001/Bliss_Browser_WebGL/)
+- - - [:octocat: `Bliss Browser Widgets`](https://github.com/seanpm2001/Bliss_Browser_Widgets/)
 - - - [:octocat: `Bliss Browser XMPP`](https://github.com/seanpm2001/Bliss_Browser_XMPP/)
 - - - [:octocat: `Bliss Browser XUL support`](https://github.com/seanpm2001/Bliss_Browser_XUL_Support/)
 - - [:octocat: `Bliss Browser Languages`](https://github.com/seanpm2001/Bliss_Browser_Languages/)
@@ -249,9 +251,9 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `46 (2023, Wednesday, March 22nd at 4:17 pm PST)`
+**File version:** `47 (2023, Thursday, March 23rd at 4:02 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,262`
+**Line count (including blank lines and compiler line):** `1,284`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1245,6 +1247,26 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 46
 - [ ] No other changes in version 46
+
+</details>
+
+<details><summary><p><b>Version 47 (2023, Thursday, March 23rd at 4:02 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This is a regular, small update. This is the default format for daily updates._
+
+> Changes
+
+- - [x] Updated the `Browsers` listing section
+- - - [x] Added 2 new entries for Bliss Browser:Core
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 47
+- [ ] No other changes in version 47
 
 </details>
 
