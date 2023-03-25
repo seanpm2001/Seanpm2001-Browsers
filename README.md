@@ -48,7 +48,9 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - - - [:octocat: `Bliss Browser Cookie Jar`](https://github.com/seanpm2001/Bliss_Browser_Cookie-Jar/)
 - - - [:octocat: `Bliss Browser Data Manager`](https://github.com/seanpm2001/Bliss_Browser_Data-Manager/)
 - - - [:octocat: `Bliss Browser Document Viewer`](https://github.com/seanpm2001/Bliss_Browser_DocumentViewer/)
+- - - [:octocat: `Bliss Browser Do Not Track`](https://github.com/seanpm2001/Bliss_Browser_DoNotTrack/)
 - - - [:octocat: `Bliss Browser EPUBMode`](https://github.com/seanpm2001/Bliss_Browser_EPUBMode/)
+- - - [:octocat: `Bliss Browser Favicon`](https://github.com/seanpm2001/Bliss_Browser_Favicon/)
 - - - [:octocat: `Bliss Browser Fonts`](https://github.com/seanpm2001/Bliss_Browser_Fonts/)
 - - - [:octocat: `Bliss Browser File Manager`](https://github.com/seanpm2001/Bliss_Browser_File-Manager/)
 - - - [:octocat: `Bliss Browser History`](https://github.com/seanpm2001/Bliss_Browser_History/)
@@ -251,9 +253,9 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `47 (2023, Thursday, March 23rd at 4:02 pm PST)`
+**File version:** `48 (2023, Friday, March 24th at 5:58 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,284`
+**Line count (including blank lines and compiler line):** `1,306`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1267,6 +1269,26 @@ A list of browser projects by [:octocat: `@seanpm2001`](https://github.com/seanp
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 47
 - [ ] No other changes in version 47
+
+</details>
+
+<details><summary><p><b>Version 48 (2023, Friday, March 24th at 5:58 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This is a regular, small update. This is the default format for daily updates._
+
+> Changes
+
+- - [x] Updated the `Browsers` listing section
+- - - [x] Added 2 new entries for Bliss Browser:Core
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 48
+- [ ] No other changes in version 48
 
 </details>
 
